@@ -1,0 +1,66 @@
+D:\ADM\R1\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.dll
+D:\ADM\R1\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.pdb
+D:\ADM\R1\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csproj.ResolveComReference.cache
+D:\ADM\R1\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.dll
+D:\ADM\R1\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.pdb
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csprojResolveAssemblyReference.cache
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.dll
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.pdb
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csprojResolveAssemblyReference.cache
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.dll
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.pdb
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.dll
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.pdb
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csproj.ResolveComReference.cache
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.dll
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.pdb
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csprojResolveAssemblyReference.cache
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.dll
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.pdb
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csprojResolveAssemblyReference.cache
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csproj.ResolveComReference.cache
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.dll
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csprojResolveAssemblyReference.cache
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csproj.ResolveComReference.cache
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csprojResolveAssemblyReference.cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csproj.ResolveComReference.cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csprojResolveAssemblyReference.cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csproj.ResolveComReference.cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csprojResolveAssemblyReference.cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csproj.ResolveComReference.cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csproj.ResolveComReference.cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.pdb
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.dll
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.pdb
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.dll
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.pdb
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.dll
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.pdb
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csprojResolveAssemblyReference.cache
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.dll
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.pdb
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.dll
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADM.Data\bin\Debug\ADM.Data.pdb
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.dll
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.pdb
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADM.Data\obj\Debug\ADM.Data.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+*.suo
+*.user
+*.sln.docstates
+*.cache
+
+**.suo
+**.user
+**.sln.docstates
+**.cache

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ADMDB" Class="ADMLinqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ADM101\ADMSQL101;Initial Catalog=ADMDB;Integrated Security=True" SettingsObjectName="ADM.Data.Properties.Settings" SettingsPropertyName="ADMDBConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.[Cube Details]" Member="Cube_Details">
+    <Type Name="Cube_Detail">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="JobRef" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[Set No]" Member="Set_No" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SpecimenRef" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Size" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="DateCast" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Age" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DateTest" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Grade" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="SampleMass" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="MaxLoad" Type="System.Single" DbType="Real" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Cube Receiving]" Member="Cube_Receivings">
+    <Type Name="Cube_Receiving">
+      <Column Name="JobRef" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ProjectCode" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="DateReceived" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ClientRef" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[Casting Location]" Member="Casting_Location" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="SampleCondition" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="TestCondition" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="TestedBy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PreparedBy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ApprovedBy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DateReport" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Remarks" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="InvoiceNo" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="DateCollection" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Field1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.vCubeTestAll" Member="vCubeTestAlls">
+    <Type Name="vCubeTestAll">
+      <Column Name="BarCode" Type="System.String" DbType="NVarChar(264)" CanBeNull="true" />
+      <Column Name="SpecimenRef" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="JobRef" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ProjectCode" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Company" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ProjectTitle" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Size" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="DateCast" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Age" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DateTest" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Grade" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="SampleMass" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="MaxLoad" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

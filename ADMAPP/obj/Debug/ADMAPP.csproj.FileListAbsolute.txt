@@ -1,0 +1,435 @@
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.pdb
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csprojResolveAssemblyReference.cache
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.pdb
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.config
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.manifest
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.application
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe.manifest
+D:\ADM\ADMCUBE\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.application
+D:\ADM\R1\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.config
+D:\ADM\R1\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.manifest
+D:\ADM\R1\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.application
+D:\ADM\R1\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe
+D:\ADM\R1\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.pdb
+D:\ADM\R1\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.dll
+D:\ADM\R1\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+D:\ADM\R1\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+D:\ADM\R1\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+D:\ADM\R1\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.pdb
+D:\ADM\R1\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+D:\ADM\R1\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+D:\ADM\R1\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+D:\ADM\R1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csprojResolveAssemblyReference.cache
+D:\ADM\R1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+D:\ADM\R1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+D:\ADM\R1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+D:\ADM\R1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+D:\ADM\R1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe.manifest
+D:\ADM\R1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.application
+D:\ADM\R1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe
+D:\ADM\R1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.pdb
+D:\ADM\R1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.TrustInfo.xml
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.config
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.pdb
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csprojResolveAssemblyReference.cache
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.manifest
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.application
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.pdb
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.dll
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.pdb
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.TrustInfo.xml
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe.manifest
+C:\Users\Viswanathan\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.application
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.config
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.pdb
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csprojResolveAssemblyReference.cache
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.manifest
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.application
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.pdb
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.dll
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.pdb
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.TrustInfo.xml
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe.manifest
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.application
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\sundarams\Desktop\kaushik work\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.pdb
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.config
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.pdb
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.manifest
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.application
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.pdb
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.dll
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.pdb
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.pdb
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.TrustInfo.xml
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe.manifest
+C:\Users\ADM\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.application
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.config
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.pdb
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csprojResolveAssemblyReference.cache
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.manifest
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.application
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.pdb
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.dll
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.pdb
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.pdb
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.TrustInfo.xml
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe.manifest
+C:\Users\PeiShan\Desktop\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.application
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.config
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.pdb
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.manifest
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.application
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.pdb
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.dll
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.pdb
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csprojResolveAssemblyReference.cache
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.TrustInfo.xml
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe.manifest
+D:\ADMCUBE\ADMCUBE-NEW\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.application
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.config
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.manifest
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.application
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.TrustInfo.xml
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe.manifest
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.application
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20150627\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csprojResolveAssemblyReference.cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.config
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.manifest
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.application
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csprojResolveAssemblyReference.cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.TrustInfo.xml
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe.manifest
+D:\ADMCUBE\ADMCUBE-Xuejie_20150820_with MC7\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.application
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.config
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csprojResolveAssemblyReference.cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.TrustInfo.xml
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.manifest
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.application
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe.manifest
+D:\ADMCUBE\ADMCUBE-Xuejie_20160604_MC8\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.application
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.config
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.manifest
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.application
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csprojResolveAssemblyReference.cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.TrustInfo.xml
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe.manifest
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_Malaysia\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.application
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.config
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.manifest
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.application
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\bin\Debug\CookComputing.XmlRpcV2.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.TrustInfo.xml
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe.manifest
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.application
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\Source Code\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csprojResolveAssemblyReference.cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.config
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe.manifest
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.application
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.exe
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csprojResolveAssemblyReference.cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.TrustInfo.xml
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.exe.manifest
+D:\ADMCUBE\ADMCUBE-Xuejie_20161210_MC7_NewBalance_LA600\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.application
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.exe.config
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.exe.manifest
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.application
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.exe
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.pdb
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.TrustInfo.xml
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.exe.manifest
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.application
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.exe
+D:\ADMCUBE\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.pdb
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.exe.config
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.exe.manifest
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.application
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.exe
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.pdb
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.dll
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.pdb
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csprojResolveAssemblyReference.cache
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.TrustInfo.xml
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.exe.manifest
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.application
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.exe
+C:\Work\IT Machine\CubeCode\ADMCUBE-Xuejie_20161230_MCJB1_NewBalance_LA600 - Copy\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.pdb
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.exe.config
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.exe
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.pdb
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.exe.manifest
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.application
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.exe
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.pdb
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.dll
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.pdb
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csprojResolveAssemblyReference.cache
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.TrustInfo.xml
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.exe.manifest
+C:\Work\IT Machine\CubeCode\ADMCUBE-Site Lab_With Compression machine\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.application
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.exe.config
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.exe
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.pdb
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.exe.manifest
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.application
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.exe
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.pdb
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.dll
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.pdb
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csprojResolveAssemblyReference.cache
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.Cache
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.TrustInfo.xml
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.exe.manifest
+C:\Work\CubeSource\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.application
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.exe.config
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.exe.manifest
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.application
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.exe
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMAPP.New.pdb
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.dll
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMClass.dll
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.dll
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADM.Data.pdb
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMClass.pdb
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.pdb
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\bin\Debug\ADMDATA.dll.config
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csprojAssemblyReference.cache
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmADMAPP.resources
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.frmTest1.resources
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.Properties.Resources.resources
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.GenerateResource.cache
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.CoreCompileInputs.cache
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.TrustInfo.xml
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.exe.manifest
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.application
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.csproj.CopyComplete
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.exe
+C:\Users\vignesh.v\Desktop\Handover\Cube software\ADMCUBE-Site Lab_With Compression machine_MCW1\ADMCUBE\ADMAPP\obj\Debug\ADMAPP.New.pdb

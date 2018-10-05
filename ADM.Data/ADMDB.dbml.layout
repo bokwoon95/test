@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ADMDB">
+  <DataContextMoniker Name="/ADMDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a4bbb6c7-3ddd-4080-a254-fe3821ac0e4d" absoluteBounds="0.5, 0.5, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/ADMDBDataContext/Cube_Detail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c5356820-99d0-4ed8-92dc-ebd330ec1a6f" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a36c0ba6-c60f-4910-a81a-78ff35b3cc07" absoluteBounds="2.75, 0.5, 2, 3.6939111328124996">
+      <DataClassMoniker Name="/ADMDBDataContext/Cube_Receiving" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b9a199aa-9046-45ad-831f-eaebf829dbdc" absoluteBounds="2.765, 0.96, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.96235270182292); (2.5 : 1.96235270182292)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/ADMDBDataContext/Cube_Receiving/Cube_Receiving_Cube_Detail" />
+      <nodes>
+        <classShapeMoniker Id="a36c0ba6-c60f-4910-a81a-78ff35b3cc07" />
+        <classShapeMoniker Id="a4bbb6c7-3ddd-4080-a254-fe3821ac0e4d" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="06b82089-e0b2-442c-8745-6b42ac510f18" absoluteBounds="0.5, 4.25, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/ADMDBDataContext/vCubeTestAll" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6a52c53a-ba76-46bf-86f0-18df44d0dea1" absoluteBounds="0.51500000000000012, 4.71, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6abe02a6-9121-4b87-8108-588a533af9a4" absoluteBounds="2.625, 4.25, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/ADMDBDataContext/vCubeTestToday" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c6500335-705d-41d3-b91f-8aaf9195bb30" absoluteBounds="2.64, 4.71, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

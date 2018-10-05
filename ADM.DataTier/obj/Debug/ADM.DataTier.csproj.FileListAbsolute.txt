@@ -1,0 +1,7 @@
+D:\ADM\ADMCUBE\ADMCUBE\ADM.DataTier\bin\Debug\ADMDB.sdf
+D:\ADM\ADMCUBE\ADMCUBE\ADM.DataTier\bin\Debug\ADM.DataTier.dll.config
+D:\ADM\ADMCUBE\ADMCUBE\ADM.DataTier\bin\Debug\ADM.DataTier.dll
+D:\ADM\ADMCUBE\ADMCUBE\ADM.DataTier\bin\Debug\ADM.DataTier.pdb
+D:\ADM\ADMCUBE\ADMCUBE\ADM.DataTier\obj\Debug\ADM.DataTier.csprojResolveAssemblyReference.cache
+D:\ADM\ADMCUBE\ADMCUBE\ADM.DataTier\obj\Debug\ADM.DataTier.dll
+D:\ADM\ADMCUBE\ADMCUBE\ADM.DataTier\obj\Debug\ADM.DataTier.pdb
